@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+ul li {
+    border-bottom: 1px solid #ddd;
+	font-size: 18px;
+	border-radious:10px;
+	list-style-type:none;
+	word-spacing: 2px;
+	letter-spacing: 1px;
+}
+	div{
+		background-color:white;
+		max-width: 98%;
+		margin-left:3px;
+		border-radius: 10px;
+	}
+	div p {
+	padding:10px;
+	}

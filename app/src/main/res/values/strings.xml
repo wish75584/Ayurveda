@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ayurveda</string>
+    <!--<string name="ADD_UNIT_ID">ca-app-pub-4945440279638756/8396042801</string>
+    <string name="Full_ADD_UNIT_ID">ca-app-pub-4945440279638756/8842641655</string>-->
+
+    <string name="ADD_UNIT_ID">ca-app-pub-4945440279638756/1910861245</string>
+    <string name="Full_ADD_UNIT_ID">ca-app-pub-4945440279638756/9548720254</string>
+
+</resources>
